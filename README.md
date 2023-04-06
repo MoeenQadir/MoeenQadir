@@ -2,11 +2,11 @@
 
     
 ### Student Life
-   write here your student life
+Bs Information Technology at Univrersity Of Eduction Lahore
 
 ###  Professional Side:
    ```
-    professional side
+    Senior IT Manager and developer 
    ```
 ### My Work and projects
     * Data analysis and operations on existing data with JS Graphical Interfaces with Spring boot as a backend services.
@@ -24,30 +24,6 @@
     🔗 http://fahadshahzad.com/
 
 ### Technologies I am working with:
-    👉   Spring (Java)
-            Spring Framework(Java)
-            Spring boot Microservices
-            Hystrics Cloud Services
-            Apache Kafka
-            API Gateway
-            Load Balancers
-            SOAP based Web Services
-            Spring Core MVC
-            Aspect Oriented Programming
-            Spring Security 
-            Centeralized Logging System
-            Swagger
-            Thymeleaf based Server Side Applications
-            JSP based server side spring boot application
-    
-    👉	Blockchain
-            Ethereum Smart Contract Developer
-            IPFS
-            Sanity
-            Solidity
-            Opensea Markeetplace NFT Minting
-            Standard ERC-721 for NFT
-            DAPs development with React Js and Next.js with ETH and more other currencies 
     👉	Front End
             HTML5
             CSS ======> SASS Framework
@@ -64,7 +40,6 @@
             * PostgreSQL Server
             * SQL Server
             * Mongodb Server for NoSQL Document based Projects
-            * PhpMyAdmin
     👉  Version Control
             Github
             Bitbucket
@@ -82,10 +57,3 @@
             Creatly
             UML
                  Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fahad-qureshi786)  
-<br/>
- ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=fahad-qureshi786)
-![GitHub Trophies ](https://github-profile-trophy.vercel.app/?username=fahad-qureshi786)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahad-qureshi786&show_icons=true&theme=dark)  
-![GitHub metrics](https://metrics.lecoq.io/fahad-qureshi786)  
-![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-qureshi786)  
